@@ -1,0 +1,20 @@
+{
+  "name": "My Collection",
+  "symbol": "MC",
+  "description": "My Collection description",
+  "image": "https://lvvg33dqzykc2mbfa4ifua75t73tchjnfjbcspp3n3baabugh6qq.arweave.net/XWpt7HDOFC0wJQcQWgP9n_cxHS0qQik9-27CAAaGP6E",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "transparent"
+    },
+    {
+      "trait_type": "Shape",
+      "value": "sphere"
+    },
+    {
+      "trait_type": "Resolution",
+      "value": "1920x1920"
+    }
+  ]
+}
