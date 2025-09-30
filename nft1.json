@@ -1,0 +1,29 @@
+{
+  "name": "Compressed NFT #1",
+  "symbol": "CNFT",
+  "description": "My first compressed NFT",
+  "image": "https://imgs.search.brave.com/5-s4WwCwxuLiZ4OQBGPA_7_1weHBTbUk2qKwEyv8tdA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZmF2cG5nLmNvbS8y/MS8xMi83L2NhcnRv/b24tY29sb3JmdWwt/Y2FydG9vbi1yYWlu/Ym93LWRWQjRtbk5G/X3QuanBn",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Number",
+      "value": "1"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://imgs.search.brave.com/5-s4WwCwxuLiZ4OQBGPA_7_1weHBTbUk2qKwEyv8tdA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZmF2cG5nLmNvbS8y/MS8xMi83L2NhcnRv/b24tY29sb3JmdWwt/Y2FydG9vbi1yYWlu/Ym93LWRWQjRtbk5G/X3QuanBn",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
